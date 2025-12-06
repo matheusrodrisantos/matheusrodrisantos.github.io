@@ -1,1 +1,38 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Matheus Rodrigues</title><link>https://matheusrodrisantos.github.io/pt/</link><description>Recent content on Matheus Rodrigues</description><generator>Hugo -- gohugo.io</generator><language>pt</language><atom:link href="https://matheusrodrisantos.github.io/pt/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Matheus Rodrigues</title><link>https://matheurodrigues.tech/pt/</link><description>Recent content on Matheus Rodrigues</description><generator>Hugo -- gohugo.io</generator><language>pt-br</language><atom:link href="https://matheurodrigues.tech/pt/index.xml" rel="self" type="application/rss+xml"/><item><title>Projetos</title><link>https://matheurodrigues.tech/pt/projetos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://matheurodrigues.tech/pt/projetos/</guid><description>&lt;div class="projects-flex"&gt;
+&lt;link rel="stylesheet" href="https://matheurodrigues.tech/css/project-card.min.4a306e4728023927b4273eb2dca995ad0b7f39a0cada87b2d01f63d2b188cb80.css"&gt;
+&lt;div class="project-card"&gt;
+&lt;img class="project-cover" src="https://raw.githubusercontent.com/matheusrodrisantos/ponto-git/refs/heads/main/public/images/ponto-git.png" alt="Ponto GIT cover" /&gt;
+&lt;h3 class="project-title"&gt;
+&lt;a href="https://github.com/matheusrodrisantos/ponto-git" target="_blank" rel="noopener"&gt;
+Ponto GIT
+&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p class="project-description"&gt;
+API de sistema de registro de ponto de código aberto
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;link rel="stylesheet" href="https://matheurodrigues.tech/css/project-card.min.4a306e4728023927b4273eb2dca995ad0b7f39a0cada87b2d01f63d2b188cb80.css"&gt;
+&lt;div class="project-card"&gt;
+&lt;img class="project-cover" src="https://raw.githubusercontent.com/matheusrodrisantos/ponto-git/refs/heads/main/public/images/ponto-git.png" alt="Ponto GIT cover" /&gt;
+&lt;h3 class="project-title"&gt;
+&lt;a href="https://github.com/matheusrodrisantos/ponto-git" target="_blank" rel="noopener"&gt;
+Ponto GIT
+&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p class="project-description"&gt;
+API de sistema de registro de ponto de código aberto
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;link rel="stylesheet" href="https://matheurodrigues.tech/css/project-card.min.4a306e4728023927b4273eb2dca995ad0b7f39a0cada87b2d01f63d2b188cb80.css"&gt;
+&lt;div class="project-card"&gt;
+&lt;img class="project-cover" src="https://raw.githubusercontent.com/matheusrodrisantos/ponto-git/refs/heads/main/public/images/ponto-git.png" alt="Ponto GIT cover" /&gt;
+&lt;h3 class="project-title"&gt;
+&lt;a href="https://github.com/matheusrodrisantos/ponto-git" target="_blank" rel="noopener"&gt;
+Ponto GIT
+&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p class="project-description"&gt;
+API de sistema de registro de ponto de código aberto
+&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item></channel></rss>
