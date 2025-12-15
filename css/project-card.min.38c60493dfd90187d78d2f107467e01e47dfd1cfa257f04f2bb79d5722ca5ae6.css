@@ -1,1 +1,0 @@
-.projects-flex{display:flex;flex-wrap:wrap;gap:1.5rem;justify-content:center}.project-card{flex:1 1 260px;max-width:300px}.project-cover{width:60%;max-width:220px;display:block;margin:0 auto 1rem;border-radius:10px}.project-title a{color:var(--color-primary);text-decoration:none}.project-description{margin-top:.5rem;color:var(--color-secondary)}

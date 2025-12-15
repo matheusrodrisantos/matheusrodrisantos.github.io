@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matheus Rodrigues</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Matheus Rodrigues</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/</guid>
+      
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Projetos</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/</guid>
+      
+      <description>&lt;div class=&#34;projects-flex&#34;&gt;
+  
+
+  
+  &lt;link rel=&#34;stylesheet&#34; href=&#34;http://localhost:1313/css/project-card.min.4a306e4728023927b4273eb2dca995ad0b7f39a0cada87b2d01f63d2b188cb80.css&#34;&gt;
+  &lt;div class=&#34;project-card&#34;&gt;
+    &lt;img class=&#34;project-cover&#34; src=&#34;https://raw.githubusercontent.com/matheusrodrisantos/ponto-git/refs/heads/main/public/images/ponto-git.png&#34; alt=&#34;Ponto GIT cover&#34; /&gt;
+    &lt;h3 class=&#34;project-title&#34;&gt;
+      &lt;a href=&#34;https://github.com/matheusrodrisantos/ponto-git&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+        Ponto GIT
+      &lt;/a&gt;
+    &lt;/h3&gt;
+  
+    &lt;p class=&#34;project-description&#34;&gt;
+      API de sistema de registro de ponto de código aberto
+    &lt;/p&gt;
+  &lt;/div&gt;
+
+
+  
+  &lt;link rel=&#34;stylesheet&#34; href=&#34;http://localhost:1313/css/project-card.min.4a306e4728023927b4273eb2dca995ad0b7f39a0cada87b2d01f63d2b188cb80.css&#34;&gt;
+  &lt;div class=&#34;project-card&#34;&gt;
+    &lt;img class=&#34;project-cover&#34; src=&#34;https://raw.githubusercontent.com/matheusrodrisantos/ponto-git/refs/heads/main/public/images/ponto-git.png&#34; alt=&#34;Ponto GIT cover&#34; /&gt;
+    &lt;h3 class=&#34;project-title&#34;&gt;
+      &lt;a href=&#34;https://github.com/matheusrodrisantos/ponto-git&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+        Ponto GIT
+      &lt;/a&gt;
+    &lt;/h3&gt;
+  
+    &lt;p class=&#34;project-description&#34;&gt;
+      API de sistema de registro de ponto de código aberto
+    &lt;/p&gt;
+  &lt;/div&gt;
+
+
+  
+  &lt;link rel=&#34;stylesheet&#34; href=&#34;http://localhost:1313/css/project-card.min.4a306e4728023927b4273eb2dca995ad0b7f39a0cada87b2d01f63d2b188cb80.css&#34;&gt;
+  &lt;div class=&#34;project-card&#34;&gt;
+    &lt;img class=&#34;project-cover&#34; src=&#34;https://raw.githubusercontent.com/matheusrodrisantos/ponto-git/refs/heads/main/public/images/ponto-git.png&#34; alt=&#34;Ponto GIT cover&#34; /&gt;
+    &lt;h3 class=&#34;project-title&#34;&gt;
+      &lt;a href=&#34;https://github.com/matheusrodrisantos/ponto-git&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+        Ponto GIT
+      &lt;/a&gt;
+    &lt;/h3&gt;
+  
+    &lt;p class=&#34;project-description&#34;&gt;
+      API de sistema de registro de ponto de código aberto
+    &lt;/p&gt;
+  &lt;/div&gt;
+
+
+
+&lt;/div&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
